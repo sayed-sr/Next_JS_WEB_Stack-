@@ -15,10 +15,11 @@
 Spin up your entire stack in two commands:
 
 ```bash
-# 1. Scaffold the frontend
+# Client (Front-end)
 npx sayed-web-client my-app
-
-# 2. Scaffold the backend
+```
+```bash
+# Server (Back-end)
 npx sayed-web-server my-app-server
 ```
 
