@@ -10,20 +10,6 @@
 
 ---
 
-## 📁 Monorepo Structure
-
-```
-sayed-web-stack/
-├── client/          # sayed-web-client — Next.js CLI scaffolder
-│   ├── index.js
-│   └── package.json
-└── server/          # sayed-web-server — Express CLI scaffolder
-    ├── index.js
-    └── package.json
-```
-
----
-
 ## 🚀 Quick Start
 
 Spin up your entire stack in two commands:
@@ -39,6 +25,10 @@ npx sayed-web-server my-app-server
 That's it. No manual installs. No config hunting. Start building immediately.
 
 ---
+
+---
+
+
 
 ## 📦 Packages
 
