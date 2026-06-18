@@ -107,7 +107,7 @@ This CLI is built for developers who want to ship a clean backend fast with:
 ## 👨‍💻 Author
 
 **Md. Sayed**
-Junior MERN Stack Developer · IEEE DIU Student Branch · Embedded Systems Research Center, DIU
+Junior MERN Stack Developer 
 
 [![npm](https://img.shields.io/npm/v/sayed-web-server?color=red&label=npm)](https://www.npmjs.com/package/sayed-web-server)
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
