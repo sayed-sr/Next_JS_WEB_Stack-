@@ -13,13 +13,12 @@
 ## 🚀 Quick Start
 
 Spin up your entire stack in two commands:
-
-```bash
 # Client (Front-end)
+```bash
 npx sayed-web-client my-app
 ```
-```bash
 # Server (Back-end)
+```bash
 npx sayed-web-server my-app-server
 ```
 
