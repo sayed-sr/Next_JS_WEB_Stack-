@@ -125,7 +125,7 @@ my-server/
 ## 👨‍💻 Author
 
 **Md. Sayed**
-Junior MERN Stack Developer
+MERN Stack Developer
 
 ---
 
