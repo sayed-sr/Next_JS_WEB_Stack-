@@ -135,7 +135,7 @@ my-server/
 ## 👨‍💻 Author
 
 **Md. Sayed**
-Junior MERN Stack Developer · IEEE DIU Student Branch · Embedded Systems Research Center, DIU
+Junior MERN Stack Developer
 
 ---
 
