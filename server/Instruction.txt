@@ -1,0 +1,4 @@
+npm init -y
+npm install execa
+package.json
+index.js

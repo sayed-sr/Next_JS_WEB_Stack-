@@ -1,0 +1,11 @@
+{
+  "name": "sayed-web-client",
+  "version": "1.0.2",
+  "type": "module",
+  "bin": {
+    "sayed-web-client": "./index.js"
+  },
+  "dependencies": {
+    "execa": "^9.6.1"
+  }
+}

@@ -1,0 +1,11 @@
+{
+  "name": "sayed-web-server",
+  "version": "1.0.0",
+  "type": "module",
+  "bin": {
+    "sayed-web-server": "./index.js"
+  },
+  "dependencies": {
+    "execa": "^9.6.1"
+  }
+}
