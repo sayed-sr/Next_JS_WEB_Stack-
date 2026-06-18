@@ -15,7 +15,7 @@
 Spin up your entire stack in two commands:
 ## Client (Front-end)
 ```bash
-npx sayed-web-client my-app
+npx sayed-web-client my-app-client
 ```
 ## Server (Back-end)
 ```bash
